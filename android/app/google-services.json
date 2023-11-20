@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578725544321",
+    "project_id": "remindmeflutter",
+    "storage_bucket": "remindmeflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578725544321:android:82ed13e55e96528633a880",
+        "android_client_info": {
+          "package_name": "rampu.foi.hr.remind_me_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD74-ceA880Xd_Xy-tC4wF2nGUMylEFYug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
